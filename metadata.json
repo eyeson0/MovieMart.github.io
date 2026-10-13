@@ -1,0 +1,8 @@
+{
+  "name": "MovieMart",
+  "description": "Premium movie marketplace for digital streaming, cinema tickets, collector editions, and movie discovery.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
